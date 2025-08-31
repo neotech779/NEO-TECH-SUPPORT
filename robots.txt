@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://neo-tech-support.netlify.app/sitemap.xml
+Sitemap: https://neotech779.github.io/NEO-TECH-SUPPORT/sitemap.xml
