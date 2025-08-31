@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://neo-tech-support.netlify.app/</loc>
+    <loc>https://neotech779.github.io/NEO-TECH-SUPPORT/</loc>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://neo-tech-support.netlify.app/#services</loc>
+    <loc>https://neotech779.github.io/NEO-TECH-SUPPORT/careers.html</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://neo-tech-support.netlify.app/#why</loc>
+    <loc>https://neotech779.github.io/NEO-TECH-SUPPORT/privacy.html</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://neo-tech-support.netlify.app/#pricing</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://neo-tech-support.netlify.app/#contact</loc>
+    <loc>https://neotech779.github.io/NEO-TECH-SUPPORT/terms.html</loc>
     <priority>0.7</priority>
   </url>
 </urlset>
