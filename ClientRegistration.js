@@ -1,1 +1,0 @@
-// Client registration form
